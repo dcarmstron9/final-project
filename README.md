@@ -6,4 +6,4 @@ To run the program, you input a tv show or movie and the algorithm will use eith
 
 
 Group Member Contributions:
-We completed the project on zoom with everyone in attendance for all meetings and we worked through all of the code and complications that we faced together. Everyone also contributed to the slides as well as the code and creating the graphics for the presentation. When we received feedback from instructors, we collaborated to decide what our best course of action would be to complete the project. 
+We completed the project on zoom with everyone in attendance for all meetings and we worked through all of the code and complications that we faced together. We used screen sharing and breakout rooms to work on different aspects of the project. Everyone also contributed to the slides as well as the code and creating the graphics for the presentation. When we received feedback from instructors, we collaborated to decide what our best course of action would be to complete the project. 
